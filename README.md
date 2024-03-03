@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lorentz95
-- 👀 I’m interested in physics and a lots of other stuff
+- 👀 I’m interested in physics and lots of other stuff
 - 🌱 I’m currently learning phyton
 
 
