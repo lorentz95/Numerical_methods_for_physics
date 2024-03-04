@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Logo of the project](https://scontent-mxp2-1.xx.fbcdn.net/v/t1.6435-9/56390464_1194153187432845_3679325502675353600_n.png?_nc_cat=105&ccb=1-7&_nc_sid=c2f564&_nc_ohc=kpiheEVr2ukAX9Sdxzs&_nc_ht=scontent-mxp2-1.xx&oh=00_AfDyKbN6bSq07l2QUXrrFJ6UtDi-5PozH55IuiFOsxGneQ&oe=660D2299)
+![Logo of the project]([https://scontent-mxp2-1.xx.fbcdn.net/v/t1.6435-9/56390464_1194153187432845_3679325502675353600_n.png?_nc_cat=105&ccb=1-7&_nc_sid=c2f564&_nc_ohc=kpiheEVr2ukAX9Sdxzs&_nc_ht=scontent-mxp2-1.xx&oh=00_AfDyKbN6bSq07l2QUXrrFJ6UtDi-5PozH55IuiFOsxGneQ&oe=660D2299](https://im.indiatimes.in/media/content/2019/Apr/nuclear_bomb_1554277711.jpg?w=640&h=427&cc=1))
 
 # Name of the project
 > Additional information or tagline
