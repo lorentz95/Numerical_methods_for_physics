@@ -15,11 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Logo of the project](https://im.indiatimes.in/media/content/2019/Apr/nuclear_bomb_1554277711.jpg?w=640&h=427&cc=1)
 
-# Name of the project
+# Neural Network for Nuclear Physics
 > Additional information or tagline
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+The project I am working on is a neural network that should analyse the initial conditions of a differential equation and make them evolve over time.
 
 ## Installing / Getting Started
 
@@ -107,6 +106,8 @@ Default: 100
 
 Copy-paste as many of these as you need.
 
+
+<!---
 ## Contributing
 
 When you publish something open source, one of the greatest motivations is that
@@ -122,6 +123,7 @@ If there's anything else the developer needs to know (e.g. the code style
 guide), you should link it here. If there's a lot of things to take into
 consideration, it is common to separate this section to its own file called
 `CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
+--->
 
 ## Links
 
