@@ -16,11 +16,10 @@ You can click the Preview link to take a look at your changes.
 ![Logo of the project](https://im.indiatimes.in/media/content/2019/Apr/nuclear_bomb_1554277711.jpg?w=640&h=427&cc=1)
 
 # Neural Network for Nuclear Physics
-> Additional information or tagline
+The project I am working on is a neural network that analyses the initial conditions of a differential equation and make them evolve over time.
 
-The project I am working on is a neural network that should analyse the initial conditions of a differential equation and make them evolve over time.
 
-## Installing / Getting Started
+## Getting Started
 
 A quick introduction of the minimal setup you need to get a hello world up &
 running.
