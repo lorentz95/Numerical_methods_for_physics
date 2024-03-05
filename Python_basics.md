@@ -1,6 +1,12 @@
 Python course for beginners:
 https://www.youtube.com/watch?app=desktop&v=rfscVS0vtbw
 
+Python intermediate course:
+https://www.youtube.com/watch?v=HGOBQPFzWKo
+
+Python object oriented:
+https://www.youtube.com/watch?v=Ej_02ICOIgs&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&index=4
+
 Numpy library:
 https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1741s
 https://github.com/KeithGalli/NumPy/blob/master/NumPy%20Tutorial.ipynb
