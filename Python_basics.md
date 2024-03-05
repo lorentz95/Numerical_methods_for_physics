@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=mLL9gyY68dM
 
 Neural Networks:
 https://www.youtube.com/watch?v=lGLto9Xd7bU&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=2
+
+PyTorch full guide:
+https://youtu.be/V_xro1bcAuA?si=Ob1xi-iERbPiwEhc
