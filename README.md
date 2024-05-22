@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Logo of the project]([https://images.theconversation.com/files/465905/original/file-20220530-22-ktw8io.jpeg?ixlib=rb-4.1.0&rect=29%2C291%2C4962%2C2477&q=45&auto=format&w=1356&h=668&fit=crop])
+![Logo of the project](https://images.theconversation.com/files/465905/original/file-20220530-22-ktw8io.jpeg?ixlib=rb-4.1.0&rect=29%2C291%2C4962%2C2477&q=45&auto=format&w=1356&h=668&fit=crop)
 
 # Neural Network for Nuclear Physics
 
