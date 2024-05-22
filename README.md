@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lorentz95
-- 👀 I’m interested in physics and lots of other stuff
-- 🌱 I’m currently learning phyton
 
 
 <!---
@@ -13,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Logo of the project](https://im.indiatimes.in/media/content/2019/Apr/nuclear_bomb_1554277711.jpg?w=640&h=427&cc=1)
+![Logo of the project]([https://im.indiatimes.in/media/content/2019/Apr/nuclear_bomb_1554277711.jpg?w=640&h=427&cc=1](https://images.theconversation.com/files/465905/original/file-20220530-22-ktw8io.jpeg?ixlib=rb-4.1.0&rect=29%2C291%2C4962%2C2477&q=45&auto=format&w=1356&h=668&fit=crop))
 
 # Neural Network for Nuclear Physics
-The project I am working on is a neural network that analyses the initial conditions of a differential equation and makes them evolve over time.
+
 
 
 ## Getting Started
